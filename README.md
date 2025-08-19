@@ -14,8 +14,7 @@ Busco constantemente aprender, seja através da graduação, cursos, projetos pr
 <div style="text-align: left; padding: 20px 0;">
   <ul>
     <li>🎓 <strong>Graduanda</strong> em Ciências da Computação - Uninove (7 semestre)</li>
-    <li>💻 <strong>Estudando</strong> Desenvolvimento de Software e Soluções em Nuvem</li>
-    <li>👩‍💻 <strong>Áreas de interesse:</strong> Backend | Cloud Computing | Data Analytics 
+    <li>💻 <strong>Estudando</strong> Desenvolvimento de Software, Data Analytics e Soluções em Nuvem</li>
     <li>🎂 <strong>22 anos</strong> - 2002</li>
   </ul>
 </div>
