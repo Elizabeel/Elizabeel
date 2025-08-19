@@ -5,16 +5,17 @@
 -----------------------------------------------------------------------------------------------
 
 <p align="left">
-  Estou trilhando meu caminho na área de tecnologia e tenho me dedicado à construção de uma base sólida por meio de cursos, projetos pessoais e mentorias, sempre buscando evoluir como profissional e como pessoa.. <br>
+  Sou apaixonada por tecnologia e estou construindo minha trajetória com foco em desenvolvimento de software, soluções em nuvem e análise de dados.  
+Busco constantemente aprender, seja através da graduação, cursos, projetos práticos e mentorias, sempre com o objetivo de evoluir como profissional e como pessoa. <br>
 </p>
 
 -----------------------------------------------------------------------------------------------
 
 <div style="text-align: left; padding: 20px 0;">
   <ul>
-    <li>🎓 <strong>Graduando</strong> Ciências da Computação - Uninove</li>
-    <li>💻 <strong>Estudando</strong> desenvolvimento de software e soluções em nuvem</li>
-    <li>👩‍💻 <strong>Software Developer | Cloud Computing | Data Analytic</strong></li>
+    <li>🎓 <strong>Graduanda</strong> em Ciências da Computação - Uninove (7 semestre)</li>
+    <li>💻 <strong>Estudando</strong> Desenvolvimento de Software e Soluções em Nuvem</li>
+    <li>👩‍💻 <strong>Áreas de interesse:</strong> Backend | Cloud Computing | Data Analytics 
     <li>🎂 <strong>22 anos</strong> - 2002</li>
   </ul>
 </div>
