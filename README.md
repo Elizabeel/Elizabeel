@@ -23,8 +23,8 @@
 
 <!-- GitHub Stats -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Elizabeel&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=ffcbdb&text_color=FFFFFF&bg_color=ffcbdb" alt="Elizabete de Oliveira GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeel&layout=compact&hide_border=true&title_color=FFFFFF&text_color=ffcbdb&bg_color=FFFFFF" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Elizabeel&show_icons=true&count_private=true&hide_border=true&title_color=8e44ad&icon_color=2ecc71&text_color=c9d1d9&bg_color=000000" alt="Elizabete de Oliveira GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeel&layout=compact&hide_border=true&title_color=8e44ad&text_color=2ecc71&bg_color=000000" />
 </div>
 
 <!-- Snake Animation -->
