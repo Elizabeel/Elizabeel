@@ -1,16 +1,35 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=48&center=false&vCenter=true&width=1000&lines=Elizabete+de+Oliveira;+Welcome!+:%29" alt="Typing SVG">
+</a>
 
-<!--
-**Elizabeel/Elizabeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+<p align="left">
+  Estou trilhando meu caminho na área de tecnologia e tenho me dedicado à construção de uma base sólida por meio de cursos, projetos pessoais e mentorias, sempre buscando evoluir como profissional e como pessoa.. <br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------------------------------------------------------------------------------------------
+
+<div style="text-align: left; padding: 20px 0;">
+  <ul>
+    <li>🎓 <strong>Graduando</strong> Ciências da Computação - Uninove</li>
+    <li>💻 <strong>Estudando</strong> desenvolvimento de software e soluções em nuvem</li>
+    <li>👩‍💻 <strong>Software Developer | Cloud Computing | Data Analytic</strong></li>
+    <li>🎂 <strong>22 anos</strong> - 2007</li>
+  </ul>
+</div>
+
+<hr>
+
+<!-- GitHub Stats -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Elizabeel&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=ffcbdb&text_color=FFFFFF&bg_color=ffcbdb" alt="Elizabete de Oliveira GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeel&layout=compact&hide_border=true&title_color=FFFFFF&text_color=ffcbdb&bg_color=FFFFFF" />
+</div>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elizabeel/Elizabeel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elizabeel/Elizabeel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Elizabeel/Elizabeel/output/github-snake.svg" />
+</picture>
