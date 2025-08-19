@@ -15,7 +15,7 @@
     <li>🎓 <strong>Graduando</strong> Ciências da Computação - Uninove</li>
     <li>💻 <strong>Estudando</strong> desenvolvimento de software e soluções em nuvem</li>
     <li>👩‍💻 <strong>Software Developer | Cloud Computing | Data Analytic</strong></li>
-    <li>🎂 <strong>22 anos</strong> - 2007</li>
+    <li>🎂 <strong>22 anos</strong> - 2002</li>
   </ul>
 </div>
 
